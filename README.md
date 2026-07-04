@@ -35,3 +35,7 @@ To reproduce the numerical findings and regenerate all data/figures:
    ```
 2. **Run the Notebook:** Open `Reproduce_All_Figures.ipynb` in Jupyter and run all cells. 
 3. **Output:** The notebook will re-integrate the dynamical systems and overwrite the `.csv` and `.png` files with fresh, verifiable outputs. Note that the 3-level Lorenz Cascade integration may take a couple of minutes due to the high-resolution time stepping required for chaotic accuracy.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
