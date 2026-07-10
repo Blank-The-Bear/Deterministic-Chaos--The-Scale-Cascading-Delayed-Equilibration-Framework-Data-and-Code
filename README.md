@@ -1,4 +1,4 @@
-# A Scale-Cascading Delayed-Equilibration Framework for Nonequilibrium Complexity and Chaos
+# Deterministic Chaos: The Scale-Cascading Delayed-Equilibration Framework (Data And Code)
 
 **Author:** Sagar K.S.  
 **Affiliation:** Project Associate, National Centre for Combustion Research and Development, Indian Institute of Technology Madras, India  
@@ -8,7 +8,7 @@
 
 ## About This Repository
 
-This repository contains the complete computational reproducibility package and numerical data for the manuscript: *"A Scale-Cascading Delayed-Equilibration Framework for Nonequilibrium Complexity and Chaos"*. 
+This repository contains the complete computational reproducibility package and numerical data for the manuscript: *"Thermodynamic Origins of Deterministic Chaos: The Scale-Cascading Delayed-Equilibration Framework"*. 
 
 The theoretical framework unifies temporal and spatial chaos as frustrated equilibration across interacting scales, governed by a single dimensionless parameter, the Equilibration Number ($\mathcal{E}$). 
 
